@@ -1,41 +1,40 @@
-## Welcome to Amigo Motion Capture Plaform
-
-You can use the [editor on GitHub](https://github.com/AmigoCap/amigocap.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Amigo Motion Capture Plaform
 
 
-# Tutorials
 
+
+### Sponsors
+
+
+<img src="http://www.auvergnerhonealpes.fr/uploads/Image/a5/IMF_100/GAB_CRRAA/1378_360_logo-officiel-400-px.png" style="width: 200px;"> <img src="http://www.ec-lyon.fr/sites/all/themes/zen_ecl_www/logo.svg" style="width: 200px;">
+
+
+
+### Tutorials
+
+* [Git, GitHub, and co](/tutorials/basics.html)
+* [Access to the Amigo room and procedures](/tutorials/procedures.html)
+* Calibration
+* Data aquisition and export
 * [Blender and motion capture](/tutorials/blender.html)
 
-# People
 
-```markdown
-Syntax highlighted code block
+### People
+
+* [Romain Vuillemot](http://romain.vuillemot.net/)
+* [Stéphane Derrode](http://perso.ec-lyon.fr/derrode.stephane/)
+* Lots of other people! See below for current projects.
+
+### Projects
 
 
+*Title: Motion capture*
 
+* Two / three lines describing the project
+* Participants
+* Link to GitHub with code
+* Main results, cool images and videos
 
+### Contact
 
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmigoCap/amigocap.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please contact <a href="mailto:romain.vuillemot@gmail.com">Romain Vuillemot</a> for any question.
