@@ -63,20 +63,23 @@ Pour cette étape, il faut se placer dans le *Pose Mode*.
 ![bone constraints](http://img4.hostingpics.net/pics/937945tuto34.png)
 
  * Ajouter une contrainte de localisation appelée *copy location*. Sélectionnez (soit à l’aide de la pipette, soit dans le menu déroulant) le marqueur de référence de votre os, celui qui correspond à la base de votre bone.
+ 
  ![Selection marqueur de référence](http://img4.hostingpics.net/pics/508374tuto35.png)
 
 >Remarque : si votre point de référence est positionné entre plusieurs marqueurs, il faut ajouter une contrainte pour chaque marqueur et leur donner des poids équivalents (paramètre *Influence*, dont la somme doit être égale à 1).
 
 Exemple:
+
 ![Exemple](http://img4.hostingpics.net/pics/125530tuto36.png)
 
  * Ajoutez une contrainte de direction, appelée *Damped track*. Associez à cette contrainte le marqueur qui correspond à la tête de votre bone, comme vu précédemment. La remarque sur le nombre de marqueurs est valable ici également.
+ 
 ![](http://img4.hostingpics.net/pics/386165tuto37.png)
 
 A la fin de cette étape, votre armature contient toutes les contraintes nécessaires pour qu’elle suive les points. A noter qu’il peut y avoir un léger décalage qui n’a pas forcément d’incidence si le mouvement effectué est le bon, qui peut être dû au fait que la distance entre les marqueurs varie légèrement lors de l’acquisition.
 Vous pouvez dès à présent observer votre armature bouger en appuyant sur *alt + A* dans le *Pose mode* ou le *mode objet*.
 
-###Exportation
+### Exportation
 Pour exporter votre armature, allez dans *file >> export >> Motion Capture (.bvh)*.
 
 >Remarque : il peut être nécessaire de lier tous les bones entre eux, en les sélectionnant et en appuyant sur *ctrl + J*.
