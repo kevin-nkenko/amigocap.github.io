@@ -17,7 +17,9 @@
 * Calibration
 * Data aquisition and export
 * [Blender and motion capture](/tutorials/blender.html)
-
+* [Movement Acquisition (in French)](tutorials/acquisition_mouvements.html)
+* [Creation of a frame in Blender (in French)](tutorials/creation_armature.html)
+* [Link frame to model in Blender (in French)](tutorials/liaison_armature_modele.html)
 
 ### People
 
