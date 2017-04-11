@@ -1,14 +1,8 @@
-## Amigo Motion Capture Plaform
-
-
-
+## Amigo // Motion Analysis Plaform
 
 ### Sponsors
 
-
 <img src="http://www.auvergnerhonealpes.fr/uploads/Image/a5/IMF_100/GAB_CRRAA/1378_360_logo-officiel-400-px.png" style="width: 200px;"> <img src="http://www.ec-lyon.fr/sites/all/themes/zen_ecl_www/logo.svg" style="width: 200px;">
-
-
 
 ### Tutorials
 
@@ -23,12 +17,10 @@
 
 ### People
 
-* [Romain Vuillemot](http://romain.vuillemot.net/)
+* [Romain Vuillemot](http://romain.vuillemot.net/) main <a href="mailto:romain.vuillemot@gmail.com">contact</a>
 * [Stéphane Derrode](http://perso.ec-lyon.fr/derrode.stephane/)
-* Lots of other people! See below for current projects.
 
 ### Projects
-
 
 *Title: Motion capture*
 
@@ -36,7 +28,3 @@
 * Participants
 * Link to GitHub with code
 * Main results, cool images and videos
-
-### Contact
-
-Please contact <a href="mailto:romain.vuillemot@gmail.com">Romain Vuillemot</a> for any question.
