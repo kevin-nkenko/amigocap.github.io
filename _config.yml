@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+theme: minima
+
+title: AMIGO
+email: romain.vuillemot@gmail.com
